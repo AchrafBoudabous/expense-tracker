@@ -22,7 +22,7 @@ A simple and modern expense tracking web application built with **Flask**, **MyS
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/AchrafBoudabous/expense-tracker.git
 cd expense-tracker
 ```
 
