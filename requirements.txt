@@ -1,0 +1,9 @@
+Flask==2.3.3
+pandas
+fpdf
+openpyxl
+Flask-Bcrypt==1.0.1
+flask-mysqldb
+mysqlclient
+pymysql
+python-dotenv
